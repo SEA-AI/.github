@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+If you are member, change to member view 👁️‍🗨️.
+<div align="center"/>
+<img width="30%" alt="image" src="https://github.com/SEA-AI/.github/assets/35779409/57d0f760-c60c-4ebd-a265-aea3816e038a">
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
