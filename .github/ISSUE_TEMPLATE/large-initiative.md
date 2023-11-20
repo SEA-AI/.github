@@ -1,6 +1,6 @@
 ---
 name: Large Initiative
-about: Describe this issue template's purpose here.
+about: Pick me if you plan to use a task list
 title: ''
 labels: ''
 assignees: ''
