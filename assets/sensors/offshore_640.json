@@ -1,0 +1,148 @@
+{
+  "_id": {
+    "$oid": "6351a3b577dd6d25a36bee88"
+  },
+  "IMU": {
+    "phi_offset": 0,
+    "psi_offset": 0,
+    "theta_offset": 0
+  },
+  "UUID": "66f9b5f1-ca20-4975-be8d-a396f81db3c4",
+  "rgb_camera": {
+    "D": [
+      -0.06512207154243667,
+      0.08383144802980727,
+      -0.13061331106654073,
+      0.07079546299405452
+    ],
+    "FoV": [
+      80,
+      105
+    ],
+    "K": [
+      [
+        699.1205758671152,
+        0,
+        644.3964560268923
+      ],
+      [
+        0,
+        697.9017856517253,
+        508.7055570905823
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "border_cut": [
+      0,
+      0
+    ],
+    "border_shift": [
+      0,
+      0
+    ],
+    "calibration_model": "fisheye",
+    "phi_mc": 0,
+    "psi_mc": -0.32,
+    "theta_mc": 14.65,
+    "resolution": [
+      800,
+      1280
+    ],
+    "type": "e-CAM50_CUNX 1280x960",
+    "Knew": [
+      [
+        491.0892723065346,
+        0,
+        639.3964560268923
+      ],
+      [
+        0,
+        476.70143703768406,
+        433.7055570905823
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  "thermal_camera_left": {
+    "D": "None",
+    "FoV": [
+      32,
+      25.6
+    ],
+    "K": [
+      [
+        1126.788208381,
+        0,
+        256
+      ],
+      [
+        0,
+        1115.972622029,
+        320
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "border_cut": "None",
+    "border_shift": "None",
+    "calibration_model": "None",
+    "phi_mc": 11.9,
+    "psi_mc": -0.11,
+    "theta_mc": 11.93,
+    "resolution": [
+      640,
+      512
+    ],
+    "type": "FLIR BOSON 640"
+  },
+  "thermal_camera_right": {
+    "D": "None",
+    "FoV": [
+      32,
+      25.6
+    ],
+    "K": [
+      [
+        1126.788208381,
+        0,
+        256
+      ],
+      [
+        0,
+        1115.972622029,
+        320
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "border_cut": "None",
+    "border_shift": "None",
+    "calibration_model": "None",
+    "phi_mc": -11.9,
+    "psi_mc": -0.11,
+    "theta_mc": 12.12,
+    "resolution": [
+      640,
+      512
+    ],
+    "type": "FLIR BOSON 640"
+  },
+  "servo": {
+    "servo_offset_angle": 0
+  },
+  "version": "Oscar40R_v1.1"
+}
