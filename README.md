@@ -1,3 +1,3 @@
 Hello there!
 
-This is the special plublic repo from our organisation
+This is the special public repo from our organisation

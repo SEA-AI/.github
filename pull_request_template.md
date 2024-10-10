@@ -9,6 +9,7 @@ Why are these changes necessary? Is there a specific stakeholder (PM, service, Q
 ## How?
  
 A high level description of the implemented changes. Visual aid is always preferred (diagrams, plots, tables, etc...).
+
  
 ## Testing
  
@@ -35,3 +36,9 @@ Proof (in the form of screenshots, videos, graphs, etc...) that this feature/bug
 
 [crf]: https://trac.ffmpeg.org/wiki/Encode/H.264
 [pts]: http://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video#setptsfilter
+
+## Backout plan
+
+Describe briefly how to revert the feature in case of failure/issue. If not possible to revert describe 
+1. name the reason for why it is not possible
+2. think of any other way to handle possible failures/issues
