@@ -9,6 +9,15 @@ Why are these changes necessary? Is there a specific stakeholder (PM, service, Q
 ## How?
  
 A high level description of the implemented changes. Visual aid is always preferred (diagrams, plots, tables, etc...).
+
+## Backout plan
+
+Briefly describe how to revert the feature in case of failure/issue. If not possible to revert 
+1. name the reason for why it is not possible
+2. think of any other way to handle possible failures/issues
+
+> [!TIP]
+> Do not waste too much time on deriving a backout plan. Your gut feeling will tell you what to do and if a backout plan is neccessary and applicable.
  
 ## Testing
  
