@@ -12,7 +12,7 @@ A high level description of the implemented changes. Visual aid is always prefer
 
 ## Backout plan
 
-Briefly describe how to revert the feature in case of failure/issue. If not possible to revert 
+(If applicable) Briefly describe how to revert the feature in case of failure/issue. If not possible to revert 
 1. name the reason for why it is not possible
 2. think of any other way to handle possible failures/issues
  
